@@ -3,7 +3,7 @@
 VNTextPatch神器🚀的gui_shell,命令行苦手☺,终将得以解脱...
 
 试了一下,此VNTextPatch工具的Kirikiri,ks文本的提取还不如翻译君准确...😂
-![](VNTextPatch_Gui_Shell.jpg)
+![](VNTextPatch_Gui_Shell_2023-08-24.png)
 
 # VNTextPatch项目(目前大佬已存档该项目)[github](https://github.com/arcusmaximus/VNTranslationTools)
 | Engine                               | Extension(s)   | Remarks                                                                        |
