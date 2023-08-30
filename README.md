@@ -1,9 +1,18 @@
-# VNTextPatch_GUI
+# 文字游戏_翻译君_文本提取工具Shell
+[![GitHub release (with filter)](https://img.shields.io/github/v/release/sh2288/VNTextPatch_GUI?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC%E4%B8%8B%E8%BD%BD)
+](https://github.com/sh2288/VNTextPatch_GUI/releases/latest)
+![GitHub all releases](https://img.shields.io/github/downloads/sh2288/VNTextPatch_GUI/total)
+
+## 最新消息
+#### 2023-08-30
+1. 加入VX-Ace-Translator命令行工具的shell(更好用的提取文本工具,针对龙头马头游戏引擎)
+![](翻译君_文本提取工具Shell2.png)
 ### 这个VNtextPatch工具,配合[文字游戏_翻译君](https://github.com/sh2288/transer),如虎添翼🚀
 VNTextPatch神器🚀的gui_shell,命令行苦手☺,终将得以解脱...
 
 试了一下,此VNTextPatch工具的Kirikiri,ks文本的提取还不如翻译君准确...😂
 ![](VNTextPatch_Gui_Shell_2023-08-24.png)
+![](翻译君_文本提取工具Shell2.png)
 
 # VNTextPatch项目(目前大佬已存档该项目)[github](https://github.com/arcusmaximus/VNTranslationTools)
 | Engine                               | Extension(s)   | Remarks                                                                        |
@@ -30,4 +39,4 @@ VNTextPatch神器🚀的gui_shell,命令行苦手☺,终将得以解脱...
 | TmrHiroAdvSystem                     | .srp/(none)    | Append `--format=tmrhiroadvsystemtext` to command line in case of no extension |
 | Whale                                | .txt           | Append `--format=whale` to command line                                        |
 | YU-RIS                               | .ybn           |                                                                                |
-
+# VX-Ace-Translator命令行工具[项目地址](https://github.com/AhmedAhmedEG/VX-Ace-Translator)
