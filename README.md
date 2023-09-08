@@ -41,4 +41,4 @@ VNTextPatch神器🚀的gui_shell,命令行苦手☺,终将得以解脱...
 | TmrHiroAdvSystem                     | .srp/(none)    | Append `--format=tmrhiroadvsystemtext` to command line in case of no extension |
 | Whale                                | .txt           | Append `--format=whale` to command line                                        |
 | YU-RIS                               | .ybn           |                                                                                |
-# VX-Ace-Translator命令行工具[项目地址](https://github.com/AhmedAhmedEG/VX-Ace-Translator)
+# VX-Ace-Translator命令行工具[项目地址](https://github.com/sh2288/VX-Ace-Translator)
