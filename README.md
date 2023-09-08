@@ -4,6 +4,8 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/sh2288/VNTextPatch_GUI/total)
 
 ## 最新消息
+#### 2023-09-08
+1.重新编译VX-Ace-Translator命令行工具,使导出的文本位于同一目录,方便翻译汉化后的替换(原始工具,导出的文本分别放在3个目录...)
 #### 2023-08-30
 1. 加入VX-Ace-Translator命令行工具的shell(更好用的提取文本工具,针对龙头马头游戏引擎)
 ![](翻译君_文本提取工具Shell2.png)
